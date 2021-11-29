@@ -1,0 +1,38 @@
+body {
+    background: linear-gradient(270deg, red, rebeccapurple);
+}
+
+.groovy{
+    font-weight: bold;
+    font-style: italic;
+}
+
+#loginTitletext{
+    color: rgba(165, 207, 66, 0.76);
+    font-style: italic;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#loginDivtext{
+    color:green;
+    font-weight: bolder;
+
+}
+
+.button {
+    width: 150px;
+    height: 30px;
+    background-color: white;
+    border-radius: 12px;
+    border-color: rgb(10, 10, 66);
+    
+}
+.gButton {
+    width: 150px;
+    height: 30px;
+    background-color: white;
+    border-radius: 12px;
+    border-color: rgb(10, 10, 66);
+    
+}
